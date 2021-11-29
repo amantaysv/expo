@@ -84,31 +84,3 @@
    animation-timing-function: linear;
    animation-iteration-count:infinite;
 }
-
-@keyframes titleAnimation {
-   from {
-      color: white;
-      text-align: left;
-   }
-
-   25% {
-      color: red;
-      text-align: center;
-   }
-
-   50% {
-      color: orange;
-      text-align: right;
-
-   }
-
-   75% {
-      color: yellow;
-      text-align: center;
-   }
-
-   to {
-      color: white;
-      text-align: left;
-   }
-}
